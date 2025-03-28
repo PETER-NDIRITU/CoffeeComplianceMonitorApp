@@ -5,7 +5,7 @@ import geopandas as gpd
 import geemap.foliumap as geemap
 from shapely.geometry import box, mapping, Point
 import folium
-import os
+import os 
 import zipfile
 from pyproj import Transformer
 from fpdf import FPDF
